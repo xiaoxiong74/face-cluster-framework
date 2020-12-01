@@ -66,6 +66,7 @@ The output directory is constucted as follows:
 |   |     |     └── 3.jpg
 
 all pictures in n file directory are the same person.
+```
 
 ![result_0]('https://github.com/xiaoxiong74/face-cluster-framework/tree/master/data/tmp/result_0.png')
 ![result_1]('https://github.com/xiaoxiong74/face-cluster-framework/tree/master/data/tmp/result_1.png')
@@ -73,7 +74,6 @@ all pictures in n file directory are the same person.
 ![result_2]('https://github.com/xiaoxiong74/face-cluster-framework/tree/master/data/tmp/result_2.png')
 ![result_3]('https://github.com/xiaoxiong74/face-cluster-framework/tree/master/data/tmp/result_3.png')
 
-```
 ## Evaluate
 
 If you want evaluate the cluster result, you should label and organize the input pictures like the data 'labeled_data_sample' with the format as follow:
