@@ -15,6 +15,7 @@
 ![input]('https://github.com/xiaoxiong74/face-cluster-framework/tree/master/data/tmp/input.png')
 
 * 部分聚类效果：
+
 ![result_0]('https://github.com/xiaoxiong74/face-cluster-framework/tree/master/data/tmp/result_0.png')
 ![result_1]('https://github.com/xiaoxiong74/face-cluster-framework/tree/master/data/tmp/result_1.png')
 
@@ -45,6 +46,7 @@
 python main.py
 ```
 4. 人脸图片聚类结果目录 'data/output_pictures'，每个数字子目录下为同一个人的人脸图片，格式如下：
+
 ![output_all]('https://github.com/xiaoxiong74/face-cluster-framework/tree/master/data/tmp/output_all.png')
 
 
