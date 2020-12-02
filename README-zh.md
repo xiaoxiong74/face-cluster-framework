@@ -1,5 +1,5 @@
 # Face Cluster Framework (人脸聚类框架)
-[English Version]((https://github.com/xiaoxiong74/face-cluster-framework/blob/master/README.md)) | 中文版
+[English Version](https://github.com/xiaoxiong74/face-cluster-framework/blob/master/README.md) | 中文版
 
 
 ## Intorduction
@@ -12,15 +12,15 @@
 ## Cluster Result
 
 * 输入数据：
-![]('data/tmp/input.png')
+![](data/tmp/input.png)
 
 * 部分聚类效果：
 
-![](data/tmp/result_0.png')
-![]('data/tmp/result_1.png')
+![](data/tmp/result_0.png)
+![](data/tmp/result_1.png)
 
-![]('data/tmp/result_2.png')
-![]('data/tmp/result_3.png')
+![](data/tmp/result_2.png)
+![](data/tmp/result_3.png)
 
 
 ## Requirements
@@ -47,7 +47,7 @@ python main.py
 ```
 4. 人脸图片聚类结果目录 'data/output_pictures'，每个数字子目录下为同一个人的人脸图片，格式如下：
 
-![]('data/tmp/output_all.png')
+![](data/tmp/output_all.png)
 
 
 ## Evaluate
@@ -56,7 +56,7 @@ python main.py
 并在main.py中设置is_evaluate=True即可测评聚类效果。不同人脸数据集可以通过调整main.py中的min_sim与k值获得最优参数
 
 labeled_data_sample数据的聚类指标(调整参数还能提高)：
-![]('data/tmp/evaluation.png')
+![](data/tmp/evaluation.png)
 
 此外，可以通过利用自己的数据(如戴口罩的人脸数据)进行人脸特征解析模型训练，训练可以参考[hfsoftmax](https://github.com/yl-1993/hfsoftmax)
 

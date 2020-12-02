@@ -17,6 +17,9 @@ and then face clustering model is used for face clustering and archiving.
 * torchvision
 
 ## Datasets and Pretrain_models
+
+[download test data and pretrain model BaiduYun](https://pan.baidu.com/s/19Ho011j_ZpIT93aS1gSdrg)(passwd: trka)
+
 Put face pictures in the file directory 'data/input_pictures/'. The format as follow:
 
 ![](data/tmp/input.png)
@@ -24,15 +27,12 @@ Put face pictures in the file directory 'data/input_pictures/'. The format as fo
 Put the pretrain models in the file directory 'pretrain_models/'
 
 ```
-[download test data and pretrain model BaiduYun](https://pan.baidu.com/s/19Ho011j_ZpIT93aS1gSdrg)(passwd: trka)
-
 'data_sample': all pictures in a file directory
 
 'labeled_data_sample': this data you can evaluate the cluster result with set is_evaluate=True.
 
 'pretrain_model': the feature extract pretraind model, you can retrain the model on your data(eg: masked face feature) with the method [hfsoftmax](https://github.com/yl-1993/hfsoftmax)
 ```
-
 
 ## Run
 
@@ -44,7 +44,7 @@ python main.py
 
 The results in the file directory 'data/output_pictures' with default.
 
-![]('data/tmp/output_all.png')
+![](data/tmp/output_all.png)
 
 The output directory is constucted as follows:
 ```
@@ -69,12 +69,11 @@ The output directory is constucted as follows:
 
 all pictures in n file directory are the same person.
 ```
+![](data/tmp/result_0.png)
+![](data/tmp/result_1.png)
 
-![]('data/tmp/result_0.png')
-![]('data/tmp/result_1.png')
-
-![]('data/tmp/result_2.png')
-![]('data/tmp/result_3.png')
+![](data/tmp/result_2.png)
+![](data/tmp/result_3.png)
 
 ## Evaluate
 
