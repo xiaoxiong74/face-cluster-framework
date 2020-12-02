@@ -19,7 +19,7 @@ and then face clustering model is used for face clustering and archiving.
 ## Datasets and Pretrain_models
 Put face pictures in the file directory 'data/input_pictures/'. The format as follow:
 
-![input]('https://img-blog.csdnimg.cn/20201201194323262.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyMTg5MDgz,size_16,color_FFFFFF,t_70')
+![](data/tmp/input.png)
 
 Put the pretrain models in the file directory 'pretrain_models/'
 
