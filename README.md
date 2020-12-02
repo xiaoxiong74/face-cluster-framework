@@ -44,7 +44,7 @@ python main.py
 
 The results in the file directory 'data/output_pictures' with default.
 
-![output_all]('https://github.com/xiaoxiong74/face-cluster-framework/tree/master/data/tmp/output_all.png')
+![]('data/tmp/output_all.png')
 
 The output directory is constucted as follows:
 ```
@@ -70,11 +70,11 @@ The output directory is constucted as follows:
 all pictures in n file directory are the same person.
 ```
 
-![result_0]('https://github.com/xiaoxiong74/face-cluster-framework/tree/master/data/tmp/result_0.png')
-![result_1]('https://github.com/xiaoxiong74/face-cluster-framework/tree/master/data/tmp/result_1.png')
+![]('data/tmp/result_0.png')
+![]('data/tmp/result_1.png')
 
-![result_2]('https://github.com/xiaoxiong74/face-cluster-framework/tree/master/data/tmp/result_2.png')
-![result_3]('https://github.com/xiaoxiong74/face-cluster-framework/tree/master/data/tmp/result_3.png')
+![]('data/tmp/result_2.png')
+![]('data/tmp/result_3.png')
 
 ## Evaluate
 
