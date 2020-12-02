@@ -1,5 +1,5 @@
 # Face Cluster Framework (人脸聚类框架)
-[English Version](https://github.com/xiaoxiong74/face-cluster-framework/blob/master/README.md) | 中文版
+[English Version](https://github.com/xiaoxiong74/face-cluster-framework/blob/master/README.md) | 中文版 [Blog](https://blog.csdn.net/qq_42189083/article/details/110449238)
 
 
 ## Intorduction

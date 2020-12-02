@@ -1,6 +1,6 @@
 # Face Cluster Framework (人脸聚类框架)
 
-English Version | [中文版](https://github.com/xiaoxiong74/face-cluster-framework/blob/master/README-zh.md)
+English Version | [中文版](https://blog.csdn.net/qq_42189083/article/details/110449238)
 
 ## Intorduction
 
@@ -70,9 +70,11 @@ The output directory is constucted as follows:
 all pictures in n file directory are the same person.
 ```
 ![](data/tmp/result_0.png)
+
 ![](data/tmp/result_1.png)
 
 ![](data/tmp/result_2.png)
+
 ![](data/tmp/result_3.png)
 
 ## Evaluate
